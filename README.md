@@ -46,17 +46,7 @@ If you are also using a ESP-01 module, you need to connect GPIO16 with a bodge w
 
 ## Pictures
 <p align="left">
-  <img src="pictures/sensor_box%20(2).jpg" width="200" />
   <img src="pictures/sensor_box%20(3).jpg" width="200" />
-  <img src="pictures/sensor_box%20(5).jpg" width="200" />
-  <img src="pictures/sensor_box%20(6).jpg" width="200" />
-  <img src="pictures/sensor_box%20(7).jpg" width="200" />
-  <img src="pictures/sensor_box%20(8).jpg" width="200" />
-  <img src="pictures/sensor_box%20(9).jpg" width="200" />
-  <img src="pictures/sensor_box%20(10).jpg" width="200" />
-  <img src="pictures/sensor_box%20(11).jpg" width="200" />
   <img src="pictures/sensor_box%20(12).jpg" width="200" />
-  <img src="pictures/sensor_box%20(13).jpg" width="200" />
   <img src="pictures/sensor_box%20(14).jpg" width="200" />
-  <img src="pictures/sensor_box%20(15).jpg" width="200" />
 </p>
